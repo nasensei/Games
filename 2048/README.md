@@ -24,5 +24,4 @@ The game features smooth tile movement, keyboard controls, score tracking, and g
 
 ---
 
-## 📁 Project Structure
 
