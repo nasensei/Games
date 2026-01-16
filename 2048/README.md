@@ -25,3 +25,22 @@ The game features smooth tile movement, keyboard controls, score tracking, and g
 ---
 
 
+
+---
+
+## ▶️ How to Run
+
+### Option 1: Run with Processing (Recommended)
+
+1. Open Processing (Java mode)
+2. Open `App.java`
+3. Click **Run**
+
+---
+
+### Option 2: Run with Gradle
+
+From the project root:
+
+```bash
+./gradlew run
